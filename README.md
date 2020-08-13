@@ -1,2 +1,3 @@
-# estudos-flask
-Repositório para estudos com o Flask
+## Estudos Flask
+
+Projeto para estudo do Flask e Python

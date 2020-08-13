@@ -1,6 +1,6 @@
 ## Dependências dos projeto:
 - **Flask:** pip install Flask
-- **MongoDB Flask:** pip install Flask-PyMongo
+- **MongoEngine Flask:** pip install flask-mongoengine
 
 ## Para subir o MongoDB local:
 
